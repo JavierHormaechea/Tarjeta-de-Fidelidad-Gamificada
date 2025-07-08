@@ -1,4 +1,4 @@
-package tests;
+package tfg;
 
 public class CompraTest {
     
